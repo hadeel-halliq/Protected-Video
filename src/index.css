@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+@theme {
+  --font-sans: "Tajawal";
+  
+  --color-primary: #F9AF42;
+  --color-secondary: #000000;
+  --color-backGroundColor: #FFF8EB;
+  
+}
